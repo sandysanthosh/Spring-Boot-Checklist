@@ -27,3 +27,6 @@ Spring Boot Checklist
 ·         Thymeleaf - > elegient html view
 
 ·         Hystrix -> fault tolerance java library
+
+
+<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
