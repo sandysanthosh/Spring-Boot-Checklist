@@ -28,7 +28,11 @@ Spring Boot Checklist
 
 ·         Hystrix -> fault tolerance java library
 
+
  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YwLqQNH148s" allowfullscreen></iframe>
+ 
+ 
+ 
  
 
 
