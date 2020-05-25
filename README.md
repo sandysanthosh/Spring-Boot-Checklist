@@ -4,8 +4,6 @@ Spring Boot Checklist
 
 ·         Actuator: features to help you monitor and manage your application
 
-·         EurekaDiscovery: for service registration
-
 ·         JPA: to save/retrieve data
 
 ·         H2: an in-memory database
@@ -15,6 +13,8 @@ Spring Boot Checklist
 ·         Web: Spring MVC and embedded Tomcat
 
 ·         DevTools: to auto-reload the application when files change
+
+·         Axios: Promise-based HTTP client for JavaScript.(Test API URL in Front-end)
 
 ·         Lombok: to reduce boilerplate code
 
@@ -26,10 +26,15 @@ Spring Boot Checklist
 
 ·         Thymeleaf - > elegient html view
 
+·         EurekaDiscovery-> for service registration
+
 ·         Hystrix -> fault tolerance java library
 
+·         Heroku -> Deploy in Cloud Application Platform
 
- <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YwLqQNH148s" allowfullscreen></iframe>
+
+
+ <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YwLqQNH148s" width = "500" height = "500" allowfullscreen></iframe>
  
  
  
