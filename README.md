@@ -42,3 +42,7 @@ Spring Boot Checklist
 
 
 <a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
+
+## Release readiness
+
+Before a deployment, use the [Spring Boot Release Readiness Checklist](docs/release-readiness-checklist.md) for configuration, observability, database, rollback, and post-release verification.
